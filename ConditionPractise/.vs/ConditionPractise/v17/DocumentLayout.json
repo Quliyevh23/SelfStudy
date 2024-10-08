@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BBB6935-B17E-4EC0-9DEB-4B6A02069D5B}|LoopPractiseTask\\LoopPractiseTask.vcxproj|C:\\Users\\quliy\\source\\repos\\ConditionPractise\\LoopPractiseTask\\LoopPractiseTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BBB6935-B17E-4EC0-9DEB-4B6A02069D5B}|LoopPractiseTask\\LoopPractiseTask.vcxproj|solutionrelative:LoopPractiseTask\\LoopPractiseTask.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F7C4946F-66D9-42E9-96A7-7F78153D1DCD}|ConditionPractiseTask2\\ConditionPractiseTask2.vcxproj|C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask2\\ConditionPractiseTask2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F7C4946F-66D9-42E9-96A7-7F78153D1DCD}|ConditionPractiseTask2\\ConditionPractiseTask2.vcxproj|solutionrelative:ConditionPractiseTask2\\ConditionPractiseTask2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E9CFD5B0-F00C-4A84-BFCB-A9D97EEE2FCB}|ConditionPractiseTask1\\ConditionPractiseTask1.vcxproj|C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask1\\ConditionPractiseTask1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E9CFD5B0-F00C-4A84-BFCB-A9D97EEE2FCB}|ConditionPractiseTask1\\ConditionPractiseTask1.vcxproj|solutionrelative:ConditionPractiseTask1\\ConditionPractiseTask1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoopPractiseTask.cpp",
+              "DocumentMoniker": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\LoopPractiseTask\\LoopPractiseTask.cpp",
+              "RelativeDocumentMoniker": "LoopPractiseTask\\LoopPractiseTask.cpp",
+              "ToolTip": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\LoopPractiseTask\\LoopPractiseTask.cpp",
+              "RelativeToolTip": "LoopPractiseTask\\LoopPractiseTask.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T17:33:44.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ConditionPractiseTask2.cpp",
+              "DocumentMoniker": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask2\\ConditionPractiseTask2.cpp",
+              "RelativeDocumentMoniker": "ConditionPractiseTask2\\ConditionPractiseTask2.cpp",
+              "ToolTip": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask2\\ConditionPractiseTask2.cpp",
+              "RelativeToolTip": "ConditionPractiseTask2\\ConditionPractiseTask2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T16:05:35.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConditionPractiseTask1.cpp",
+              "DocumentMoniker": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask1\\ConditionPractiseTask1.cpp",
+              "RelativeDocumentMoniker": "ConditionPractiseTask1\\ConditionPractiseTask1.cpp",
+              "ToolTip": "C:\\Users\\quliy\\source\\repos\\ConditionPractise\\ConditionPractiseTask1\\ConditionPractiseTask1.cpp",
+              "RelativeToolTip": "ConditionPractiseTask1\\ConditionPractiseTask1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-08T15:49:10.72Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
